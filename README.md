@@ -27,6 +27,6 @@ transforms/
 requirements.txt
 
 ### code location
-github
+git remote add origin https://github.com/sribarrow/cwt_code.git
 
 
