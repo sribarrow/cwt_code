@@ -24,7 +24,7 @@ transforms/
 2. booking data > departure date for exchange/cancellation (ignored)
 
 ### requires install (python v3.9 used)
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 
 ### code location
 git remote add origin https://github.com/sribarrow/cwt_code.git

@@ -1,2 +1,2 @@
-pyspark==2.4.3
-py4j==0.10.9.3
+pyspark
+py4j
