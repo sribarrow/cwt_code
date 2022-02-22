@@ -1,0 +1,176 @@
+origin,destination,avgPrice,minPrice,maxPrice
+Amsterdam,Amsterdam,431.73,29,820
+Amsterdam,Hong Kong,429.09,39,785
+Amsterdam,Paris,416.0,32,822
+Amsterdam,Sao Paolo,428.23,34,824
+Amsterdam,Sydney,404.51,30,821
+Athens,Amsterdam,436.36,66,751
+Athens,Hong Kong,519.29,109,776
+Athens,Paris,402.5,91,784
+Athens,Sao Paolo,468.43,33,808
+Athens,Sydney,414.83,38,793
+Beijing,Amsterdam,425.5,25,805
+Beijing,Hong Kong,477.33,281,601
+Beijing,Paris,383.73,25,684
+Beijing,Sao Paolo,392.14,30,819
+Beijing,Sydney,418.62,40,766
+Berlin,Amsterdam,387.29,26,785
+Berlin,Hong Kong,290.67,39,809
+Berlin,Paris,428.39,76,774
+Berlin,Sao Paolo,449.67,26,794
+Berlin,Sydney,392.83,65,805
+Bogota,Amsterdam,439.11,82,788
+Bogota,Hong Kong,476.86,128,794
+Bogota,Paris,425.4,148,812
+Bogota,Sao Paolo,331.07,34,565
+Bogota,Sydney,358.62,45,822
+Brussels,Amsterdam,364.72,45,804
+Brussels,Hong Kong,468.88,81,786
+Brussels,Paris,453.33,101,786
+Brussels,Sao Paolo,307.0,43,758
+Brussels,Sydney,463.04,46,816
+Budapest,Amsterdam,373.67,55,788
+Budapest,Hong Kong,559.22,234,746
+Budapest,Paris,396.89,29,759
+Budapest,Sao Paolo,340.64,29,652
+Budapest,Sydney,463.76,25,823
+Buenos Aires,Amsterdam,409.55,42,808
+Buenos Aires,Hong Kong,292.67,110,583
+Buenos Aires,Paris,363.48,29,796
+Buenos Aires,Sao Paolo,449.38,123,717
+Buenos Aires,Sydney,397.04,81,817
+Cairo,Amsterdam,483.1,31,822
+Cairo,Hong Kong,385.57,32,637
+Cairo,Paris,472.24,67,803
+Cairo,Sao Paolo,543.71,200,792
+Cairo,Sydney,421.54,54,727
+Dubai,Amsterdam,436.83,56,677
+Dubai,Hong Kong,362.75,119,749
+Dubai,Paris,440.41,53,820
+Dubai,Sao Paolo,295.2,46,808
+Dubai,Sydney,385.04,27,822
+Hong Kong,Amsterdam,481.36,35,744
+Hong Kong,Hong Kong,417.38,53,790
+Hong Kong,Paris,453.41,44,824
+Hong Kong,Sao Paolo,400.5,33,745
+Hong Kong,Sydney,405.04,25,821
+Johannesburg,Amsterdam,466.44,82,753
+Johannesburg,Hong Kong,275.71,26,609
+Johannesburg,Paris,478.88,126,789
+Johannesburg,Sao Paolo,485.78,28,768
+Johannesburg,Sydney,303.0,64,643
+Kiev,Amsterdam,463.21,120,804
+Kiev,Hong Kong,502.89,169,776
+Kiev,Paris,370.0,36,706
+Kiev,Sao Paolo,396.33,81,778
+Kiev,Sydney,423.64,37,812
+Lausanne,Amsterdam,525.8,69,817
+Lausanne,Hong Kong,591.29,122,801
+Lausanne,Paris,345.33,31,618
+Lausanne,Sao Paolo,385.57,197,706
+Lausanne,Sydney,437.29,38,785
+Lisbon,Amsterdam,394.92,32,739
+Lisbon,Hong Kong,203.25,64,386
+Lisbon,Paris,540.33,379,791
+Lisbon,Sao Paolo,352.85,37,807
+Lisbon,Sydney,443.86,30,814
+London,Amsterdam,400.13,39,806
+London,Hong Kong,555.75,171,800
+London,Paris,374.0,32,806
+London,Sao Paolo,393.56,56,796
+London,Sydney,343.17,61,748
+Los Angeles,Amsterdam,431.76,87,782
+Los Angeles,Hong Kong,354.7,49,645
+Los Angeles,Paris,402.27,110,712
+Los Angeles,Sao Paolo,505.06,41,808
+Los Angeles,Sydney,433.03,66,808
+Madrid,Amsterdam,423.0,78,750
+Madrid,Hong Kong,397.5,47,800
+Madrid,Paris,483.62,139,723
+Madrid,Sao Paolo,415.42,94,817
+Madrid,Sydney,329.08,109,729
+Milano,Amsterdam,422.0,90,816
+Milano,Hong Kong,423.0,83,725
+Milano,Paris,414.43,36,782
+Milano,Sao Paolo,503.7,139,692
+Milano,Sydney,470.52,123,805
+Moscow,Amsterdam,416.09,57,784
+Moscow,Hong Kong,486.89,163,756
+Moscow,Paris,391.08,90,752
+Moscow,Sao Paolo,420.0,61,739
+Moscow,Sydney,464.83,87,821
+Munich,Amsterdam,447.96,49,816
+Munich,Hong Kong,400.5,105,799
+Munich,Paris,362.35,33,771
+Munich,Sao Paolo,421.2,88,784
+Munich,Sydney,420.23,49,813
+New Delhi,Amsterdam,371.56,49,802
+New Delhi,Hong Kong,388.4,56,616
+New Delhi,Paris,456.5,37,786
+New Delhi,Sao Paolo,331.3,79,809
+New Delhi,Sydney,443.33,42,816
+New Mexico,Amsterdam,367.29,33,822
+New Mexico,Hong Kong,493.25,36,817
+New Mexico,Paris,388.29,27,794
+New Mexico,Sao Paolo,420.12,31,804
+New Mexico,Sydney,397.43,60,804
+New York,Amsterdam,406.91,75,815
+New York,Hong Kong,409.0,55,768
+New York,Paris,429.76,46,716
+New York,Sao Paolo,256.0,37,688
+New York,Sydney,380.8,41,781
+Osaka,Amsterdam,467.68,106,773
+Osaka,Hong Kong,362.75,200,577
+Osaka,Paris,485.0,48,820
+Osaka,Sao Paolo,383.0,79,819
+Osaka,Sydney,419.4,65,811
+Oslo,Amsterdam,391.88,44,821
+Oslo,Hong Kong,403.5,88,776
+Oslo,Paris,467.07,45,782
+Oslo,Sao Paolo,550.1,103,820
+Oslo,Sydney,337.27,42,796
+Paris,Amsterdam,479.91,27,800
+Paris,Hong Kong,419.21,53,760
+Paris,Paris,437.5,67,823
+Paris,Sao Paolo,420.96,27,807
+Paris,Sydney,408.25,31,803
+Prague,Amsterdam,420.7,169,792
+Prague,Hong Kong,364.89,73,815
+Prague,Paris,449.25,68,798
+Prague,Sao Paolo,327.79,45,694
+Prague,Sydney,340.11,33,789
+Sao Paolo,Amsterdam,394.0,46,816
+Sao Paolo,Hong Kong,469.69,50,813
+Sao Paolo,Paris,434.59,65,822
+Sao Paolo,Sao Paolo,500.48,100,814
+Sao Paolo,Sydney,426.27,46,819
+Sofia,Amsterdam,465.8,25,820
+Sofia,Hong Kong,454.86,121,637
+Sofia,Paris,538.47,43,821
+Sofia,Sao Paolo,412.7,54,733
+Sofia,Sydney,464.97,66,819
+Stockholm,Amsterdam,381.74,52,776
+Stockholm,Hong Kong,499.57,192,677
+Stockholm,Paris,486.79,136,822
+Stockholm,Sao Paolo,354.47,38,796
+Stockholm,Sydney,449.62,61,798
+Sydney,Amsterdam,406.02,42,802
+Sydney,Hong Kong,488.78,59,820
+Sydney,Paris,411.82,41,811
+Sydney,Sao Paolo,420.95,28,822
+Sydney,Sydney,417.96,33,808
+Tokyo,Amsterdam,317.55,28,769
+Tokyo,Hong Kong,456.5,173,813
+Tokyo,Paris,432.25,65,771
+Tokyo,Sao Paolo,359.89,49,815
+Tokyo,Sydney,427.82,32,813
+Toronto,Amsterdam,426.23,52,791
+Toronto,Hong Kong,513.63,260,812
+Toronto,Paris,413.84,65,785
+Toronto,Sao Paolo,436.38,44,771
+Toronto,Sydney,513.31,52,819
+Warsaw,Amsterdam,491.44,98,797
+Warsaw,Hong Kong,310.86,33,655
+Warsaw,Paris,315.07,29,782
+Warsaw,Sao Paolo,368.67,34,776
+Warsaw,Sydney,421.96,58,816
