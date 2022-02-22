@@ -26,8 +26,8 @@ transforms/
 ### requires install (python v3.9 used)
 python -m pip install -r requirements.txt
 
-### code location
-git remote add origin https://github.com/sribarrow/cwt_code.git
+### code location to download
+git clone origin https://github.com/sribarrow/cwt_code.git
 
 ### Run python script (from root)
 python transforms/pyspark_transform.py
