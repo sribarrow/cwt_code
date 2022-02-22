@@ -23,10 +23,14 @@ transforms/
 1. origin and destination can be same (ignored)
 2. booking data > departure date for exchange/cancellation (ignored)
 
-### requires install
-requirements.txt
+### requires install (python v3.9 used)
+python -m pip install requirements.txt
 
 ### code location
 git remote add origin https://github.com/sribarrow/cwt_code.git
 
+### Run python script (from root)
+python transforms/pyspark_transform.py
 
+# Run test (from root)
+python -m unittest discover
