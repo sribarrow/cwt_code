@@ -32,5 +32,5 @@ git remote add origin https://github.com/sribarrow/cwt_code.git
 ### Run python script (from root)
 python transforms/pyspark_transform.py
 
-# Run test (from root)
+### Run test (from root)
 python -m unittest discover
